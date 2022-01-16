@@ -1,0 +1,32 @@
+body ,html{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+/*
+body{
+    background:linear-gradient(rgba(128,128,128, .8), rgba(	63,173,168, .7)), url('img/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+}
+*/
+.logo{
+    height: 100px;
+}
+
+.descripcion{
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.form-control{
+    background: transparent !important;
+    color: whitesmoke !important;
+}
+
+a .fab{
+    color: blue;
+    font-size: 30px;
+    margin: 0 10px;
+}
